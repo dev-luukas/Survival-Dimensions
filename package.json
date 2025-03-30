@@ -26,6 +26,7 @@
   "dependencies": {
     "@rbxts/react": "^17.2.3",
     "@rbxts/roact": "^3.0.1",
-    "@rbxts/services": "^1.5.5"
+    "@rbxts/services": "^1.5.5",
+    "survival-dimensions": "file:"
   }
 }
